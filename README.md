@@ -7,7 +7,7 @@
 
 ## 2. Tag - 30/10/2026
 ### Meine Ziele
-1. Einen Auftrag im Python Essentials 1 fertig machen
+1. Einen Auftrag im Python Essentials 2 fertig machen
 2. Vencord configurieren
 3. Währendessen immer mit Nvim/IdeaVim arbeiten. Möglichst wenig mit Maus arbeiten.
 
