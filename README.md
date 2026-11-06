@@ -5,6 +5,12 @@
 2.  Ideen für ein Cyberdeck finden
 3.  Nvim flüssig nutzen lernen
 
+## 3. Tag - 6/11/2026
+### Meine Ziele
+1. Am eigenen Projekt weiterarbeiten
+2. Einen Auftrag im Python Essentials 2 fertig machen.
+3. Mit LazyVim arbeiten
+
 ## 2. Tag - 30/10/2026
 ### Meine Ziele
 1. Einen Auftrag im Python Essentials 2 fertig machen
