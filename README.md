@@ -5,6 +5,10 @@
 2.  Ideen für ein Cyberdeck finden
 3.  Nvim flüssig nutzen lernen
 
+## 4. Tag - 13/11/2026
+### Meine Ziele
+1. 
+
 ## 3. Tag - 6/11/2026
 ### Meine Ziele
 1. Am eigenen Projekt weiterarbeiten
