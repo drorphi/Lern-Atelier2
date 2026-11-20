@@ -5,9 +5,17 @@
 2.  Ideen für ein Cyberdeck finden
 3.  Nvim flüssig nutzen lernen
 
+## 5. Tag - 20/11/2026
+### Meine Ziele
+1. Das Backup-Skript mit zwei Testdateien ausprobieren.
+2. Prüfen, ob beide Dateien nach dem Entpacken noch im richtigen Ordner sind.
+3. In Python eine Liste machen und die Einträge mit einer for-Schleife ausgeben.
+
 ## 4. Tag - 13/11/2026
 ### Meine Ziele
-1. 
+1. Die Anforderungsanalyse fürs Backup-Skript fertig machen.
+2. Den Ablauf mit IPERKA planen und erste Testfälle aufschreiben.
+3. In C# mit der Eingabe von Quell- und Zielordner anfangen.
 
 ## 3. Tag - 6/11/2026
 ### Meine Ziele
