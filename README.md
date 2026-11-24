@@ -5,6 +5,12 @@
 2.  Ideen für ein Cyberdeck finden
 3.  Nvim flüssig nutzen lernen
 
+## 6. Tag - 27/11/2026
+### Meine Ziele
+1. Die Vorführung fürs Backup-Skript üben und erklären, wie das ZIP geprüft wird.
+2. Den nächsten Auftrag in Python Essentials 2 lösen und den Code mit zwei Beispielen testen.
+3. Die GitHub-CLI (`gh`) ausprobieren. Ein Test-Repo erstellen, es klonen und einen Pull Request öffnen. Danach ausprobieren, wie ich meine Obsidian-Notizen über GitHub synchronisieren kann.
+
 ## 5. Tag - 20/11/2026
 ### Meine Ziele
 1. Das Backup-Skript mit zwei Testdateien ausprobieren.
