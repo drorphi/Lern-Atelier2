@@ -1,9 +1,9 @@
 # Lern-Atelier2
 
 ## Meine Ziele
-- [x] Python Essentials 2 fertig machen
-- [x] Ideen für ein Cyberdeck finden
-- [x] Nvim flüssig nutzen lernen
+- [ ] Python Essentials 2 fertig machen
+- [ ] Ideen für ein Cyberdeck finden
+- [ ] Nvim flüssig nutzen lernen
 
 ## 6. Tag - 27/11/2026
 ### Meine Ziele
